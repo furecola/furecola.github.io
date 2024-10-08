@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://furecola.github.io/sitemap.html.gz
+Sitemap: https://furecola.github.io/app/sitemap.html.gz
+Sitemap: https://furecola.github.io/assets/sitemap.html.gz
+Sitemap: https://furecola.github.io/css/sitemap.html.gz
+Sitemap: https://furecola.github.io/includes/sitemap.html.gz
+Sitemap: https://furecola.github.io/item/sitemap.html.gz
+Sitemap: https://furecola.github.io/src/sitemap.html.gz
